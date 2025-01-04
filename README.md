@@ -149,6 +149,12 @@ The end result will be a robust and scalable real-time chat application capable 
 This project serves as a solid foundation for further extensions, including advanced features like multimedia sharing, AI-powered chat assistants, and integration with third-party services.
 
 
+**OUTPUT OF THE TASK**
+
+![output2](https://github.com/user-attachments/assets/72041e15-a6a0-4774-b0a6-ee0720d0868a)
+
+
+
 
 
 
